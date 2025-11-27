@@ -4,10 +4,8 @@
 
 ---
 
-## 📌 Nome do Projeto  
 **Classificação de Variedades de Trigo com Machine Learning (Seeds Dataset)**
-
-## 👥 Nome do Grupo  
+---
 **Grupo CAP3 – Classificação de Grãos**
 
 ---
