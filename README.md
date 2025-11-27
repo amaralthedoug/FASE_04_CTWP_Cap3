@@ -5,7 +5,9 @@
 ---
 
 **Classificação de Variedades de Trigo com Machine Learning (Seeds Dataset)**
+
 ---
+
 **Grupo CAP3 – Classificação de Grãos**
 
 ---
@@ -87,4 +89,17 @@ Este modelo mostrou ser ideal para aplicação prática no cenário agrícola, o
 ---
 
 # 📁 Estrutura de Pastas
-
+FASE_04_CTWP_Cap3/
+│
+├── .github/ # Configurações de automação do GitHub
+├── assets/ # Imagens e artefatos visuais
+│ └── cap3/ # Gráficos e matrizes de confusão
+├── config/ # Arquivos de configuração (opcional)
+├── data/ # Dataset utilizado no projeto
+├── document/ # Relatórios e documentação final
+│ └── cap3/ # Relatório, tabelas e outputs do treinamento
+├── scripts/ # Scripts auxiliares (opcional)
+├── src/ # Código-fonte
+│ └── cap3/ # seeds_classifier.py
+├── requirements.txt # Dependências Python
+└── README.md # Documento atual
