@@ -1,14 +1,9 @@
-# FIAP – Faculdade de Informática e Administração Paulista  
-## Cap 3 – IR ALÉM: Implementando Algoritmos de Machine Learning com Scikit-learn  
-### *Da Terra ao Código: Classificação Automatizada de Grãos de Trigo*
+## FIAP – Faculdade de Informática e Administração Paulista  
+### Cap 3 – IR ALÉM: Implementando Algoritmos de Machine Learning com Scikit-learn  
 
 ---
 
 **Classificação de Variedades de Trigo com Machine Learning (Seeds Dataset)**
-
----
-
-**Grupo CAP3 – Classificação de Grãos**
 
 ---
 
