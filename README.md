@@ -89,17 +89,25 @@ Este modelo mostrou ser ideal para aplicação prática no cenário agrícola, o
 ---
 
 # 📁 Estrutura de Pastas
+## 📁 Estrutura de Pastas
+
+```text
 FASE_04_CTWP_Cap3/
-│
-├── .github/ # Configurações de automação do GitHub
-├── assets/ # Imagens e artefatos visuais
-│ └── cap3/ # Gráficos e matrizes de confusão
-├── config/ # Arquivos de configuração (opcional)
-├── data/ # Dataset utilizado no projeto
-├── document/ # Relatórios e documentação final
-│ └── cap3/ # Relatório, tabelas e outputs do treinamento
-├── scripts/ # Scripts auxiliares (opcional)
-├── src/ # Código-fonte
-│ └── cap3/ # seeds_classifier.py
-├── requirements.txt # Dependências Python
-└── README.md # Documento atual
+├── .github/                    # Configurações de automação do GitHub
+├── assets/                    # Imagens e artefatos visuais
+│   └── cap3/                  # Gráficos e matrizes de confusão
+├── config/                    # Arquivos de configuração (opcional)
+├── data/                      # Dataset utilizado pelo projeto
+│   └── seeds_dataset.txt
+├── document/                  # Relatórios e documentação
+│   └── cap3/
+│       ├── Model Performance Comparison.md
+│       ├── classification_reports.txt
+│       └── relatorio_cap3.md
+├── scripts/                   # Scripts auxiliares (opcional)
+├── src/                       # Código-fonte do projeto
+│   └── cap3/
+│       └── seeds_classifier.py
+├── requirements.txt           # Dependências Python
+└── README.md                  # Documento principal
+
