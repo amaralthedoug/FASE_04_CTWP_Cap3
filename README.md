@@ -25,7 +25,7 @@
 
 ---
 
-# 📜 Descrição do Projeto  
+## 📜 Descrição do Projeto  
 
 Este projeto tem como objetivo aplicar a metodologia **CRISP-DM** para desenvolver um sistema completo de **classificação de grãos de trigo**, automatizando um processo que normalmente é realizado de forma manual em cooperativas agrícolas de pequeno porte — tornando-o mais rápido, preciso e menos sujeito a erros.
 
@@ -41,7 +41,7 @@ Utilizando o **Seeds Dataset (UCI Machine Learning Repository)**, contendo **210
 
 ---
 
-# 🧭 Etapas do Trabalho (CRISP-DM)
+## 🧭 Etapas do Trabalho (CRISP-DM)
 
 ## **1. Análise e Pré-processamento dos Dados**
 - Carregamento e exploração do dataset  
@@ -88,7 +88,6 @@ Este modelo mostrou ser ideal para aplicação prática no cenário agrícola, o
 
 ---
 
-# 📁 Estrutura de Pastas
 ## 📁 Estrutura de Pastas
 
 ```text
